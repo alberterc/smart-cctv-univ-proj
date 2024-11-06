@@ -132,6 +132,3 @@ Base GUI code generated using [PAGE](http://page.sourceforge.net/).
 # Notes
 - HOG detection method is required if program is running on raspberry pi.
 - Low fps when program detects any face on the video input (face_recog_main.py), might require some adjustments.
-
-# Developer
-Albert E (albertenrico.5@gmail.com)
